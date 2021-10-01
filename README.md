@@ -1,8 +1,8 @@
 # jupyter_handy_feature
 These are  codes for the tutorials of *Pretty Handy Features of Jupyter Notebooks* on [Youtube](https://www.youtube.com/playlist?list=PLjvsR-Mqurjvj4n5mcTs3iBGEi7-JpN3u)
 
-## Contents
-This video tutorial  is an introduction to the tutorial of "Pretty Handy Features of Jupyter Notebook". It includes 21 videos with 21 features:
+# Contents
+This video tutorial  is an introduction to "Pretty Handy Features of Jupyter Notebook". It includes 21 videos with 21 features:
  1. How to Change the Themes： https://youtu.be/_dv8APyj_sg 
   2. How to Solve the Unavailable Termianal Problem on Windows： https://youtu.be/d1NK83vve6c
   3. How to Create Python (.py) Extension Files：https://youtu.be/OC753j0ej8k
