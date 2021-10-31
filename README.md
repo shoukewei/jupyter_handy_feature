@@ -24,3 +24,5 @@ This video tutorial  is an introduction to "Pretty Handy Features of Jupyter Not
   19. How to Create a  Table of Contents: https://youtu.be/YREIn1uTYO0
   20. How to Transfer Jupyter notebook into a Immediate Slideshow: https://youtu.be/pKD-QpLI_AA
   21. How to Convert a Jupyter Notebook into a Stand-alone Web Application: https://youtu.be/Vl_vfEbk3J0
+
+Click the link https://sdit.thinkific.com/courses/practical-jupyter-notebook-course for a more detailed  and systemic course "Practical Jupyter Notebook from Beginner to Expert" .
