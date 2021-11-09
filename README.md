@@ -1,7 +1,5 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/WEIAI-TECH/jupyter_handy_feature/HEAD)
 
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/WEIAI-TECH/jupyter_handy_feature/HEAD
 
 # jupyter_handy_feature
 These are  codes for the tutorials of *Pretty Handy Features of Jupyter Notebooks* on [Youtube](https://www.youtube.com/playlist?list=PLjvsR-Mqurjvj4n5mcTs3iBGEi7-JpN3u)
