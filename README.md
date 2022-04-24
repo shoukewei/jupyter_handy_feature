@@ -28,7 +28,7 @@ This video tutorial  is an introduction to "Pretty Handy Features of Jupyter Not
   20. How to Transfer Jupyter notebook into a Immediate Slideshow: https://youtu.be/pKD-QpLI_AA
   21. How to Convert a Jupyter Notebook into a Stand-alone Web Application: https://youtu.be/Vl_vfEbk3J0  
   22.1 How to Run R in Jupyter Notebook: https://youtu.be/xPICxWt37gc   
-  22.2 How to solve R installing packages on onedrive on Windows: https://youtu.be/RtqqH1CfgQM   
+ 22.2 How to solve R installing packages on onedrive on Windows: https://youtu.be/RtqqH1CfgQM   
 
 If you want to learn Jupyter notebook systematically, please go to my detaled online course "Practical Jupyter Notebook from Beginner to Expert" by the follwing linkages to watch it:
 https://www.udemy.com/course/practical-jupyter-notebook-from-beginner-to-expert/?referralCode=1A3DB60FCF0168B0C31C
