@@ -27,8 +27,8 @@ These are  codes for the tutorials of *Pretty Handy Features of Jupyter Notebook
   18. How to Create Interactive Widget Plots: https://youtu.be/7GkvVb_sJKo
   19. How to Create a  Table of Contents: https://youtu.be/YREIn1uTYO0
   20. How to Transfer Jupyter notebook into a Immediate Slideshow: https://youtu.be/pKD-QpLI_AA
-  21. How to Convert a Jupyter Notebook into a Stand-alone Web Application: https://youtu.be/Vl_vfEbk3J0
-  22.1 How to Run R in Jupyter Notebook: https://youtu.be/xPICxWt37gc
+  21. How to Convert a Jupyter Notebook into a Stand-alone Web Application: https://youtu.be/Vl_vfEbk3J0  
+  22.1 How to Run R in Jupyter Notebook: https://youtu.be/xPICxWt37gc  
   22.2 How to solve R installing packages on onedrive on Windows: https://youtu.be/RtqqH1CfgQM
   
 If you want to learn Jupyter notebook systematically, please go to my detaled online course "Practical Jupyter Notebook from Beginner to Expert" by the follwing linkages to watch it:
