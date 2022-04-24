@@ -5,7 +5,8 @@
 These are  codes for the tutorials of *Pretty Handy Features of Jupyter Notebooks* on [Youtube](https://www.youtube.com/playlist?list=PLjvsR-Mqurjvj4n5mcTs3iBGEi7-JpN3u)
 
 # Contents
-This video tutorial  is an introduction to "Pretty Handy Features of Jupyter Notebook". It includes 23 videos with 22 features:
+ It includes 23 videos with 22 features, which  can be reached by the following linkages:
+
  1. How to Change the Themes： https://youtu.be/_dv8APyj_sg 
   2. How to Solve the Unavailable Termianal Problem on Windows： https://youtu.be/d1NK83vve6c
   3. How to Create Python (.py) Extension Files：https://youtu.be/OC753j0ej8k
@@ -26,9 +27,9 @@ This video tutorial  is an introduction to "Pretty Handy Features of Jupyter Not
   18. How to Create Interactive Widget Plots: https://youtu.be/7GkvVb_sJKo
   19. How to Create a  Table of Contents: https://youtu.be/YREIn1uTYO0
   20. How to Transfer Jupyter notebook into a Immediate Slideshow: https://youtu.be/pKD-QpLI_AA
-  21. How to Convert a Jupyter Notebook into a Stand-alone Web Application: https://youtu.be/Vl_vfEbk3J0   
-22.1. How to Run R in Jupyter Notebook: https://youtu.be/xPICxWt37gc     
-22.2. How to solve R installing packages on onedrive on Windows: https://youtu.be/RtqqH1CfgQM   
-
+  21. How to Convert a Jupyter Notebook into a Stand-alone Web Application: https://youtu.be/Vl_vfEbk3J0
+  22.1 How to Run R in Jupyter Notebook: https://youtu.be/xPICxWt37gc
+  22.2 How to solve R installing packages on onedrive on Windows: https://youtu.be/RtqqH1CfgQM
+  
 If you want to learn Jupyter notebook systematically, please go to my detaled online course "Practical Jupyter Notebook from Beginner to Expert" by the follwing linkages to watch it:
 https://www.udemy.com/course/practical-jupyter-notebook-from-beginner-to-expert/?referralCode=1A3DB60FCF0168B0C31C
