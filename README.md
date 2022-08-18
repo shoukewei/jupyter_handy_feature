@@ -32,4 +32,4 @@ These are  codes for the tutorials of *Pretty Handy Features of Jupyter Notebook
   22.2 How to solve R installing packages on onedrive on Windows: https://youtu.be/RtqqH1CfgQM
   
 If you want to learn Jupyter notebook systematically, please go to my detaled online course "Practical Jupyter Notebook from Beginner to Expert" by the follwing linkages to watch it:
-https://www.udemy.com/course/practical-jupyter-notebook-from-beginner-to-expert/?referralCode=1A3DB60FCF0168B0C31C
+https://deepsim.institute/courses/practical-jupyter-notebook-from-beginner-to-expert/
